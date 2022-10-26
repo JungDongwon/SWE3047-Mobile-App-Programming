@@ -14,8 +14,8 @@ Here is a working live demo :
 
 ### Login Page and Signup Page
 
-<img src="https://user-images.githubusercontent.com/28348839/198155237-b36c177d-84cb-4a43-a53d-dcb2e07eb28c.png" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/28348839/198155285-c51462c4-6c4d-4a98-8ef6-2e80c9b5aceb.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/28348839/198155237-b36c177d-84cb-4a43-a53d-dcb2e07eb28c.png" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/28348839/198155285-c51462c4-6c4d-4a98-8ef6-2e80c9b5aceb.png" width="150" height="280">
 
 ### Main Page
 
