@@ -1,5 +1,5 @@
 # SWE3047-Mobile-App-Programming
-This repository is for projects done in SWE3047 Mobile App Programming course by Prof. Ikjun Yeom in Spring 2020.
+This repository is for projects done in SKKU SWE3047 Mobile App Programming course by Prof. Ikjun Yeom in Spring 2020.
 ## Project 1: SNS Mobile User Interface Development
   - Description:
     - Build a User Interface of an SNS application named "Inskkagram" for mobile application.
