@@ -6,7 +6,7 @@ This repository is for projects done in SKKU SWE3047 Mobile App Programming cour
     - Consist of 4 activities; Login Activity, Signup Activity, Main Page Activity, New Post Activity.
     
 ## Project 2: Movie SNS Android Application
-  - Video Demo
+  - [Video Demo](https://www.youtube.com/watch?v=iOR4PIt7NCA)
   - Description:
     - Build a Firebase-based movie SNS Android app that allows users to 
       - interact with others by posting and reading real-time reviews and ratings of popular movies.
